@@ -30,5 +30,5 @@
       "url": "https://github.com/heroku/heroku-buildpack-multi"
     }
   ],
-  "stack": "cedar-14"
+  "stack": "heroku-20"
 }
